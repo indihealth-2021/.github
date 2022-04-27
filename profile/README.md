@@ -1,4 +1,12 @@
-<h4>Produk Kami</h4>
+
+<h3>Tentang Kami</h3>
+<p>
+PT. Inditek Global Medika (dikenal dengan branding Indihealth) memiliki tujuan untuk menjadi penghubung dan penyedia layanan kesehatan yang berorientasi kepada masyarakat di Indonesia dengan berbasis teknologi informasi terdepan dan inovatif.
+
+Indihealth menjamin ketersediaan informasi kesehatan dengan menyediakan fasilitas pertukaran dan penyimpanan data kesehatan, migrasi data dengan kemampuan aplikasi yang memberikan analitik data dengan tingkat keamanan optimal dan kemudahan untuk diakses dimana saja. 
+  </p>
+<hr>
+<h3>Produk Kami</h3>
 
 <img src="https://indihealth.com/landing/produk/apotek.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/klinik.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/telecare.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/smart-hospital.png" width="150px">&nbsp;&nbsp;&nbsp;
 <img src="https://indihealth.com/landing/produk/awan-kesehatan.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/monitoring.png" width="150px">&nbsp;&nbsp;&nbsp;
