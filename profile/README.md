@@ -15,5 +15,5 @@ Indihealth menjamin ketersediaan informasi kesehatan dengan menyediakan fasilita
 <img src="https://indihealth.com/landing/produk/simrs.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/xanesa.png" width="150px">
 </div>
 <hr>
-More Info: <a href="https://indihealth.com/">Indihealth</a><br>
+More Info: <a href="https://indihealth.com/">indihealth.com</a><br>
 Contact : <a href="mailto:info@indihealth.com">info@indihealth.com</a>
