@@ -1,4 +1,4 @@
-
+<div align="center"><img src="https://indihealth.com/landing/new/logo-black.png" width="250px"></div>
 <h3>Tentang Kami</h3>
 <p>
 PT. Inditek Global Medika (dikenal dengan branding Indihealth) memiliki tujuan untuk menjadi penghubung dan penyedia layanan kesehatan yang berorientasi kepada masyarakat di Indonesia dengan berbasis teknologi informasi terdepan dan inovatif.
