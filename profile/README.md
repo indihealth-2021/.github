@@ -14,5 +14,5 @@ Indihealth menjamin ketersediaan informasi kesehatan dengan menyediakan fasilita
 <img src="https://indihealth.com/landing/produk/posyandu.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/puskesmas.png" width="150px">
 <img src="https://indihealth.com/landing/produk/simrs.png" width="150px">&nbsp;&nbsp;&nbsp;<img src="https://indihealth.com/landing/produk/xanesa.png" width="150px">
 
-
-<a href="https://indihealth.com/">Indihealth</a>
+<hr>
+Visit us: <a href="https://indihealth.com/">Indihealth</a>
