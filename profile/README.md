@@ -16,4 +16,5 @@ Indihealth menjamin ketersediaan informasi kesehatan dengan menyediakan fasilita
 </div>
 <hr>
 More Info: <a href="https://indihealth.com/">indihealth.com</a><br>
-Contact : <a href="mailto:info@indihealth.com">info@indihealth.com</a>
+Question : <a href="mailto:info@indihealth.com">info@indihealth.com</a>
+Technical Support : <a href="mailto:technical@indihealth.com">technical@indihealth.com</a>
